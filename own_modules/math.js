@@ -23,13 +23,13 @@ math.substract = substract;
 math.divide = divide;
 math.multiply = multiply;
 
-function hello(name){
+/*function hello(name){
     console.log("hola" , name);   
-}
+}*/
 
 
 module.math = math;
-module.exports = hello;
+//module.exports = hello;
 
 /*exports.add = add;
 exports.substract = substract;
